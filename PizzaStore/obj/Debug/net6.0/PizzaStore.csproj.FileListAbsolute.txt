@@ -1,0 +1,30 @@
+/Users/venu/Documents/Coding/C#/PizzaStore/PizzaStore/bin/Debug/net6.0/PizzaStore
+/Users/venu/Documents/Coding/C#/PizzaStore/PizzaStore/bin/Debug/net6.0/PizzaStore.deps.json
+/Users/venu/Documents/Coding/C#/PizzaStore/PizzaStore/bin/Debug/net6.0/PizzaStore.runtimeconfig.json
+/Users/venu/Documents/Coding/C#/PizzaStore/PizzaStore/bin/Debug/net6.0/PizzaStore.dll
+/Users/venu/Documents/Coding/C#/PizzaStore/PizzaStore/bin/Debug/net6.0/PizzaStore.pdb
+/Users/venu/Documents/Coding/C#/PizzaStore/PizzaStore/obj/Debug/net6.0/PizzaStore.csproj.AssemblyReference.cache
+/Users/venu/Documents/Coding/C#/PizzaStore/PizzaStore/obj/Debug/net6.0/PizzaStore.GeneratedMSBuildEditorConfig.editorconfig
+/Users/venu/Documents/Coding/C#/PizzaStore/PizzaStore/obj/Debug/net6.0/PizzaStore.AssemblyInfoInputs.cache
+/Users/venu/Documents/Coding/C#/PizzaStore/PizzaStore/obj/Debug/net6.0/PizzaStore.AssemblyInfo.cs
+/Users/venu/Documents/Coding/C#/PizzaStore/PizzaStore/obj/Debug/net6.0/PizzaStore.csproj.CoreCompileInputs.cache
+/Users/venu/Documents/Coding/C#/PizzaStore/PizzaStore/obj/Debug/net6.0/PizzaStore.dll
+/Users/venu/Documents/Coding/C#/PizzaStore/PizzaStore/obj/Debug/net6.0/refint/PizzaStore.dll
+/Users/venu/Documents/Coding/C#/PizzaStore/PizzaStore/obj/Debug/net6.0/PizzaStore.pdb
+/Users/venu/Documents/Coding/C#/PizzaStore/PizzaStore/obj/Debug/net6.0/PizzaStore.genruntimeconfig.cache
+/Users/venu/Documents/Coding/C#/PizzaStore/PizzaStore/obj/Debug/net6.0/ref/PizzaStore.dll
+/Users/venu/Documents/Coding/C#/PizzaStore copy/PizzaStore/obj/Debug/net6.0/PizzaStore.csproj.AssemblyReference.cache
+/Users/venu/Documents/Coding/C#/PizzaStore copy/PizzaStore/obj/Debug/net6.0/PizzaStore.GeneratedMSBuildEditorConfig.editorconfig
+/Users/venu/Documents/Coding/C#/PizzaStore copy/PizzaStore/obj/Debug/net6.0/PizzaStore.AssemblyInfoInputs.cache
+/Users/venu/Documents/Coding/C#/PizzaStore copy/PizzaStore/obj/Debug/net6.0/PizzaStore.AssemblyInfo.cs
+/Users/venu/Documents/Coding/C#/PizzaStore copy/PizzaStore/obj/Debug/net6.0/PizzaStore.csproj.CoreCompileInputs.cache
+/Users/venu/Documents/Coding/C#/PizzaStore copy/PizzaStore/obj/Debug/net6.0/PizzaStore.dll
+/Users/venu/Documents/Coding/C#/PizzaStore copy/PizzaStore/obj/Debug/net6.0/refint/PizzaStore.dll
+/Users/venu/Documents/Coding/C#/PizzaStore copy/PizzaStore/obj/Debug/net6.0/PizzaStore.pdb
+/Users/venu/Documents/Coding/C#/PizzaStore copy/PizzaStore/bin/Debug/net6.0/PizzaStore
+/Users/venu/Documents/Coding/C#/PizzaStore copy/PizzaStore/bin/Debug/net6.0/PizzaStore.deps.json
+/Users/venu/Documents/Coding/C#/PizzaStore copy/PizzaStore/bin/Debug/net6.0/PizzaStore.runtimeconfig.json
+/Users/venu/Documents/Coding/C#/PizzaStore copy/PizzaStore/bin/Debug/net6.0/PizzaStore.dll
+/Users/venu/Documents/Coding/C#/PizzaStore copy/PizzaStore/bin/Debug/net6.0/PizzaStore.pdb
+/Users/venu/Documents/Coding/C#/PizzaStore copy/PizzaStore/obj/Debug/net6.0/PizzaStore.genruntimeconfig.cache
+/Users/venu/Documents/Coding/C#/PizzaStore copy/PizzaStore/obj/Debug/net6.0/ref/PizzaStore.dll
